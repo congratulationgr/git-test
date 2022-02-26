@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("你的眼中明暗交杂一笑生花");
         System.out.println("暮色遮住你蹒跚的步伐，走进床头藏进的画");
 
+        System.out.println("以爱之名，你还愿意吗");
+
     }
 }
